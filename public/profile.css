@@ -1,0 +1,42 @@
+.btn {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-left: 105rem;
+}
+
+body {
+  text-align: center;
+  background-image: url(img/pic2.png);
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.col-sm-5 {
+  width: 99%;
+  margin-left: 2rem;
+}
+
+h2 {
+  margin: 2rem;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p {
+  font-size: 2.5rem;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bolder;
+}
+
+table {
+  font-size: 2.5rem;
+  margin-left: 24rem;
+}
+
+.top {
+  text-decoration: underline;
+}
+
+th {
+  padding-left: 5rem;
+  padding-bottom: 1rem;
+}

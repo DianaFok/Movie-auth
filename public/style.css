@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(225,242,248);
+}
+
+img {
+  height: 45rem;
+  margin-left: 35rem;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 3rem;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron {
+  background-color: rgb(235, 230, 245);
+}
+
+.btn {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
